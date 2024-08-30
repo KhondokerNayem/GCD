@@ -4,12 +4,13 @@ Project Overview
 
 This thesis project focuses on the detection of God Classes in Java systems using both metric-based and manual validation approaches. God Classes are classes that centralize too much functionality, making them overly complex and difficult to maintain. Detecting and refactoring these classes is crucial for improving software quality, maintainability, and minimizing the risk of defects.
 
-Introduction
+Introduction:
 God Classes in Java systems present a significant challenge due to their complexity and centralization of multiple functionalities. This project aims to address this issue by developing a methodology for detecting God Classes using a combination of metrics such as Access to Foreign Data (ATFD), Weighted Method Count (WMC), Tight Class Cohesion (TCC), Lines of Code (LOC), and a newly introduced metric, Average Lines of Code per Method (AvgLOC). The effectiveness of this approach is evaluated by comparing the results with manual validation across multiple Java projects.
 
-Implementation: Java code is developed to calculate the metrics for each class in the project dataset. The code evaluates each class against the defined conditions to classify it as a God Class if it meets the criteria.
+Implementation: 
+Java code is developed to calculate the metrics for each class in the project dataset. The code evaluates each class against the defined conditions to classify it as a God Class if it meets the criteria.
 
-Authors
+Authors:
 Indrajit Chakraborty
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh
 Email: indrajit.cse.200104135@aust.edu
