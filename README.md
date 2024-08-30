@@ -14,7 +14,6 @@ Authors:
 Indrajit Chakraborty
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh
 Email: indrajit.cse.200104135@aust.edu
-ORCID: 0000-0002-0931-1919
 
 Khondoker Jubayer Ahmed Nayem
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh
