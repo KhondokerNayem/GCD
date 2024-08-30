@@ -31,5 +31,5 @@ Md. Masudur Rahman
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh
 Email: masudur.rahman0413.cse@aust.edu
 
-Acknowledgements
+Acknowledgements:
 We would like to thank our supervisors, peers, and the Ahsanullah University of Science and Technology for their continuous support and guidance throughout this project.
