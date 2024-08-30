@@ -1,0 +1,5 @@
+Condition I: ATFD > 2 ∧ WMC ≥ 47 ∧ TCC < 0.33 ∧ LOC > AvgLOC
+Condition II: ATFD > 3 ∧ WMC ≥ 47 ∧ TCC < 0.33 ∧ LOC > AvgLOC
+Condition III: ATFD > 4 ∧ WMC ≥ 47 ∧ TCC < 0.33 ∧ LOC > AvgLOC
+Condition IV: ATFD > 5 ∧ WMC ≥ 47 ∧ TCC < 0.33 ∧ LOC > 500
+Condition V: ATFD > 5 ∧ WMC ≥ 47 ∧ TCC < 0.33 ∧ LOC > AvgLOC
